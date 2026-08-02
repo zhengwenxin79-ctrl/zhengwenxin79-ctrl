@@ -1,63 +1,59 @@
-# Hi, I'm Wenxin Zheng
+# Hi 👋, I'm Wenxin Zheng
 
-**Applied AI Builder | Biomedical MSc | Medical AI, AI Agents, and LLM Evaluation**
+### 🌱 Biomedical MSc · Applied AI Builder · Medical AI / AI Agents / LLM Evaluation
 
-I am exploring how AI can move from impressive demos into useful real-world systems. My current work focuses on medical AI, agent workflows, model evaluation, and domain-specific AI applications.
+I am interested in applying AI to real-world domains, especially **healthcare**, **research workflows**, and **decision-support systems**.  
+I like building small but complete AI systems: from problem framing, source collection, agent workflow, evaluation metrics, to product reflection.
 
-I care about three questions:
+<p>
+  <a href="https://zhengwenxin79-ctrl.github.io">Portfolio</a> ·
+  <a href="https://github.com/zhengwenxin79-ctrl">GitHub</a> ·
+  <a href="mailto:zhengwenxin79@gmail.com">Email</a>
+</p>
+
+---
+
+## 🎯 Focusing
+
+- 🏥 **Medical AI**: temporal medical imaging evaluation, healthcare intelligence, diabetes decision support.
+- 🤖 **AI Agents**: tool use, workflow reliability, rubric coverage, synthetic data, verifier design.
+- 📏 **LLM Evaluation**: outcome evaluation, trajectory evaluation, robustness, and safety boundaries.
+- 🛠️ **Applied AI**: turning AI prototypes into systems that can be used, tested, and improved.
+
+## 🧩 Projects I am building
+
+| Project | What it explores | Keywords |
+|---|---|---|
+| **Medical Temporal Imaging Evaluation** | Whether medical VLMs understand temporal change in follow-up chest X-rays | `medical-ai` `VLM` `temporal-evaluation` `benchmark` |
+| **Finance Agent** | Reliable financial research agents with tool use, rubric mapping, synthetic data, and verifiers | `ai-agent` `tool-use` `llm-evaluation` `verifier` |
+| **SugarClaw** | AI-powered diabetes decision support with glucose prediction and Chinese food GI/GL retrieval | `healthcare-ai` `RAG` `kalman-filter` `decision-support` |
+| **Medical AI Daily Intelligence** | Daily medical AI intelligence pipeline for papers, industry signals, and GitHub projects | `rss` `deepseek` `medical-ai` `research-workflow` |
+
+## 🧠 Questions I keep asking
 
 - How can AI solve real workflow problems instead of only producing fluent answers?
 - How should we evaluate AI agents beyond final responses?
 - How can domain knowledge, product thinking, and technical prototyping work together?
+- How can AI be applied across different fields without losing safety and human context?
 
-## Current Focus
+## 🧰 Toolbox
 
-- **Medical AI:** temporal medical imaging evaluation, healthcare decision support, medical AI intelligence.
-- **AI Agents:** tool use, workflow reliability, rubric coverage, synthetic data, verifier design.
-- **LLM Evaluation:** outcome evaluation, trajectory evaluation, robustness, safety boundaries.
-- **Applied AI Products:** turning prototypes into usable systems with clear users, metrics, and iteration paths.
+`Python` · `SQLite` · `ChromaDB` · `RAG` · `LLM Agents` · `PubMed / NCBI APIs` · `RSS Pipelines` · `Jekyll / GitHub Pages`
 
-## Featured Projects
+## 💬 Talk to me about
 
-### Medical Temporal Imaging Evaluation
+Medical AI, AI agents, LLM evaluation, healthcare intelligence, applied AI products, and how to make AI less like a demo and more like a useful companion in real work.
 
-Evaluating whether medical vision-language models can understand temporal change in follow-up chest X-rays.
+---
 
-Keywords: `medical-ai`, `vision-language-models`, `temporal-evaluation`, `benchmark`, `MedGemma`
+## 🐍 Contributions
 
-### Finance Agent
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhengwenxin79-ctrl/zhengwenxin79-ctrl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhengwenxin79-ctrl/zhengwenxin79-ctrl/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/zhengwenxin79-ctrl/zhengwenxin79-ctrl/output/github-snake.svg" />
+</picture>
 
-Building and studying financial research agent workflows with tool use, calculator policy, rubric-to-capability mapping, synthetic data, and verifier design.
+---
 
-Keywords: `ai-agent`, `llm-evaluation`, `tool-use`, `synthetic-data`, `verifier`
-
-### SugarClaw
-
-An AI-powered diabetes decision engine combining glucose trend prediction, Chinese food GI/GL retrieval, PubMed-backed reasoning, and behavioral coaching.
-
-Keywords: `healthcare-ai`, `diabetes`, `rag`, `kalman-filter`, `decision-support`
-
-### Medical AI Daily Intelligence
-
-A daily medical AI intelligence pipeline for tracking papers, industry signals, GitHub projects, and content opportunities.
-
-Keywords: `medical-ai`, `rss`, `deepseek`, `information-retrieval`, `research-workflow`
-
-## Portfolio
-
-- Portfolio website: <https://zhengwenxin79-ctrl.github.io>
-- GitHub: <https://github.com/zhengwenxin79-ctrl>
-- Email: <zhengwenxin79@gmail.com>
-
-## Direction
-
-I am open to roles around:
-
-- AI Product Manager
-- Applied AI Engineer
-- Medical AI Product
-- AI Agent Product
-- AI Evaluation / Benchmark
-- Healthcare AI Solutions
-
-My long-term interest is building AI systems that can be trusted, evaluated, and used in real domains.
+✨ Long-term interest: building AI systems that can be **trusted, evaluated, and used in real domains**.
